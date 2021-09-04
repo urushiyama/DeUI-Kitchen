@@ -1,0 +1,9 @@
+[submodule "deui"]
+	path = deui
+	url = ./deui
+[submodule "deui-dev/reloadrable"]
+	path = deui-dev/reloadrable
+	url = ./deui-dev/reloadrable
+[submodule "deui-examples/flask"]
+	path = deui-examples/flask
+	url = ./deui-examples/flask
